@@ -1,7 +1,11 @@
 # prog1Scratch
 Ez egy scratch projekt, ami egy toronyvédős játék
 
-Egérrel célzol és bármilyen billantyűvel lősz. Akkor nyersz, ha 60 másodpercig kibírod úgy, hogy nem ér az ágyúdhoz egy ellenség sem.
+Lődd le az ellenséget mielőtt elérnék az ágyúdat és birtokba vennék!
+Az egérrel tudsz célozni és a klaviatúrád bármely gombjának lenyomásával tudsz tüzelni.
+A katonákat egyszer kell eltalálnod a tankokat pedig kétszer.
+Ha egy percig kibírod akkor te győzöl.
+Jó játékot kívánok!
 
 A játékot ezen a linken tudod kipróbálni: https://scratch.mit.edu/projects/1144231171/
 
